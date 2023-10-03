@@ -1,0 +1,9 @@
+##架設網站伺服器
+
+到控制台的解除安裝功能內，選左上角的'開啟或關閉 Windows 功能'
+將'Internet Information Services'開啟
+
+回到控制台並點選'系統及安全性'-->'系統管理工具'-->'Internet Information Services(IIS)管理員'
+
+左側選單點選'站台'，點選中間選項後，右側選單'基本設定'
+將實體路徑變更為指定資料夾即可
